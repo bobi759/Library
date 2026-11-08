@@ -4,10 +4,12 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import './App.css'
 
+
 function App() {
   const [count, setCount] = useState(0)
 
   return (
+
     <>
       <section id="center">
         <div className="hero">
@@ -18,7 +20,7 @@ function App() {
         <div>
           <h1>Get started</h1>
           <p>
-            Edit <code>src/App.tsx</code> GG <code>HMR</code>
+            Edit <code>src/App.tsx</code> Edited <code>HMR</code>
           </p>
         </div>
         <button
